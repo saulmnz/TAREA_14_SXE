@@ -1,5 +1,6 @@
 # TAREA 14 SXE 🧙‍♂️
 
+![img](https://i.pinimg.com/originals/c8/7f/fb/c87ffbfdaade272b84e5a5f515c93436.gif)
 
 ### PRECONFIGURACIÓN 🎮
 
