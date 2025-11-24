@@ -1,6 +1,8 @@
 # TAREA 14 SXE 🧙‍♂️
 
-![img](https://i.pinimg.com/originals/c8/7f/fb/c87ffbfdaade272b84e5a5f515c93436.gif)
+<div style="text-align: center; margin: 20px 0;">
+<img src="https://i.pinimg.com/originals/c8/7f/fb/c87ffbfdaade272b84e5a5f515c93436.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</div>
 
 ### PRECONFIGURACIÓN 🎮
 
