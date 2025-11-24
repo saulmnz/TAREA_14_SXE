@@ -1,4 +1,4 @@
-# TAREA 14 SXE 🧙‍♂️🧊
+# TAREA 14 SXE 🧙‍♂️
 
 
 ### PRECONFIGURACIÓN 🎮
