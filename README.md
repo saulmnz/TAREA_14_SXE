@@ -28,3 +28,12 @@
 ![img](img/5.png)
 ![img](img/6.png)
 
+---
+
+### EJERCICIO 3 ️ 🦥
+
+> **ORGANIZAMOS LA BUSCA CON UNA SENTENCIA QUE ORDENE SEGÚN LA FECHA MÁS RECIENTE ( hice las inserciones con la misma fecha pero bueno la sentencia está bien )**
+
+![img](img/7.png)
+
+
