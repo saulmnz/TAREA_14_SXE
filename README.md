@@ -18,5 +18,13 @@
 ![img](img/4.png)
 
 
+---
 
+
+### EJERCICIO 2 🦫
+
+> **REALIZAMOS 5 INSERTS CON SOLO UNA SENTENCIA SQL 👀**
+
+![img](img/5.png)
+![img](img/6.png)
 
